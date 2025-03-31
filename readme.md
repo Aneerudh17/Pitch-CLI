@@ -34,7 +34,7 @@ python3.x.x
 
 If not, Then python is not added to the PATH in environment Variables or not installed correctly
 
-*To edit the PATH environment variable:*
+**To edit the PATH environment variable:**
 - Right-click on This PC or Computer on your desktop or in File Explorer, and choose Properties.
 - Click Advanced system settings on the left side.
 - Click Environment Variables at the bottom of the System Properties window.
