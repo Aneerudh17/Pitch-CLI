@@ -7,6 +7,7 @@ import argparse
 # Function to display an ASCII art logo
 def display_ascii_art():
     ascii_art = '''
+    \033[32m
 
     
 
@@ -21,6 +22,7 @@ def display_ascii_art():
 
 
 
+    \033[0m
     '''
     print(ascii_art)
 
