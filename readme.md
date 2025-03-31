@@ -27,10 +27,9 @@ To begin, ensure that Python is installed on your system and added to the enviro
    ```bash
    python --version
    ```
-If python is installed correctly, You should see something like:
+   If python is installed correctly, You should see something like:
+   ```bash
+   python3.x.x
 
-    ```bash
-    python 3.x.x 
-    ```
 If not python is not added to the PATH in environment Variables or not installed correctly
 
