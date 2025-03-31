@@ -39,7 +39,9 @@ If not, Then python is not added to the PATH in environment Variables or not ins
 - Click Advanced system settings on the left side.
 - Click Environment Variables at the bottom of the System Properties window.
 - Under System variables, scroll down and select the Path variable, then click Edit.
+
 - In the Edit Environment Variable dialog, click New, then add the path to the Python directory (for example: C:\Users\<YourUsername>\AppData\Local\Programs\Python\Python310).
+
 - Also add the Scripts folder to the PATH: C:\Users\<YourUsername>\AppData\Local\Programs\Python\Python310\Scripts.
 ---
 
