@@ -1,7 +1,7 @@
 <h1 align = center>PITCH - Your Ultimate YouTube Audio Downloader 🎵</h1>
 
 <p align="center">
-  ![yt-dlp](https://img.shields.io/badge/yt--dlp-Downloader-blue?logo=yt-dlp&logoColor=white)
+  <![yt-dlp](https://img.shields.io/badge/yt--dlp-Downloader-blue?logo=yt-dlp&logoColor=white)>
 </p>
 
 <p align="center">
