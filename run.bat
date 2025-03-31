@@ -17,7 +17,6 @@ echo - Enter the YouTube URL of the song you want to download.
 echo - Choose the location where you'd like to save the file.
 
 echo Follow Me on Github for more
-echo My username : "Aneerudh17"
 
 python -u pitch.py
 
