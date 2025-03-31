@@ -1,6 +1,7 @@
 <h1 align = center>PITCH - Your Ultimate YouTube Audio Downloader 🎵</h1>
 
 <p align="center">
+
   <![yt-dlp](https://img.shields.io/badge/yt--dlp-Downloader-blue?logo=yt-dlp&logoColor=white)>
 </p>
 
@@ -9,11 +10,13 @@
 </p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+  
+  <![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)>
 </p>
 
 <p align="center">
-  ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?logo=windows&logoColor=white)
+
+  <![Windows](https://img.shields.io/badge/Windows-OS-0078D6?logo=windows&logoColor=white)>
 </p>
 
 Welcome to **Pitch** – your personal YouTube audio downloader! With Pitch, you can easily download your favorite songs from YouTube and save them in your preferred format. It's simple to use and built to save your time with a clean and smooth experience.
