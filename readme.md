@@ -1,7 +1,7 @@
 <h1 align = center>PITCH - Your Ultimate YouTube Audio Downloader 🎵</h1>
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/downloads/)
-[![Batch](https://img.shields.io/badge/Batch-Batch-Skyblue)](https://www.gnu.org/software/bash/)
+![Batch](https://img.shields.io/badge/Batch-Script-lightgrey?logo=windows&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-10-blue)](https://www.microsoft.com/en-us/windows)
 
 Welcome to **Pitch** – your personal YouTube audio downloader! With Pitch, you can easily download your favorite songs from YouTube and save them in your preferred format. It's simple to use and built to save your time with a clean and smooth experience.
