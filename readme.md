@@ -53,9 +53,13 @@ To clone the repository:
 ```bash
 git clone https://github.com/Aneerudh17/Pitch-CLI.git
 ```
-2. Run the Batch File:
+2. Change the Directory to Pitch-cli:
 ```bash
-./run.bat
+cd Pitch-CLI
+```
+3. Run the Batch file:
+```bash
+run.bat
 ```
 This will install all the required dependencies and run the program.
 
