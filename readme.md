@@ -30,6 +30,7 @@ python --version
 If python is installed correctly, You should see something like:
 ```bash
 python3.x.x
+```
 
 If not, Then python is not added to the PATH in environment Variables or not installed correctly
 
