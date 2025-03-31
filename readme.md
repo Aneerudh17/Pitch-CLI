@@ -15,6 +15,7 @@ Before running **Pitch**, ensure that you have the following installed and set u
 
 1. **Python 3.6+** installed on your system.
 2. **Git** installed (if you are cloning the repository).
+For now this is only available on Windows irrespective of the Version.
 
 ---
 
