@@ -24,13 +24,12 @@ To begin, ensure that Python is installed on your system and added to the enviro
 
 1. Open the **Command Prompt (cmd)**.
 2. Run the following command to check the Python version:
-
-   ```bash
-   python --version
-   ```
-   If python is installed correctly, You should see something like:
-   ```bash
-   python3.x.x
+```bash
+python --version
+```
+If python is installed correctly, You should see something like:
+```bash
+python3.x.x
 
 If not, Then python is not added to the PATH in environment Variables or not installed correctly
 
