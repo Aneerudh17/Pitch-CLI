@@ -1,4 +1,4 @@
-<h1 align = center>PITCH - Your Ultimate YouTube Audio Downloader 🎵</h1>
+<h1 align = center>PITCH - Your YouTube Audio Downloader 🎵</h1>
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/downloads/)
 ![Batch](https://img.shields.io/badge/Batch-Script-lightgrey?logo=windows&logoColor=white)
