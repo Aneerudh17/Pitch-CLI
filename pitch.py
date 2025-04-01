@@ -67,6 +67,7 @@ def main():
                 break
             else:
                 sub_main()
+    sub_main()
 
 if __name__ == "__main__":
     main()
