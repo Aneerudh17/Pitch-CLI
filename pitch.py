@@ -62,7 +62,7 @@ def main():
             
             #Asking user choice to download another song
             user_choice = input("Do you want to download another song? ((Y)es/(N)o): ").lower()
-            if user_choice != 'yes' or 'y' or 'Yes':
+            if user_choice not in ['yes', 'y', 'Yes']:
                 print("Goodbye! Enjoy listening!")
                 break
             else:
