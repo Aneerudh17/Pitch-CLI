@@ -78,4 +78,4 @@ Pitch works by downloading audio from YouTube videos using yt-dlp, an advanced f
 I welcome contributions to improve Pitch. Feel free to fork the repository, open issues, or submit pull requests. If you encounter any bugs or have ideas for new features, please let me know.
 
 ---
-###
+
